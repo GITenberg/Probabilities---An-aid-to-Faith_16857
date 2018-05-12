@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6801
     wikipedia: http://en.wikipedia.org/wiki/Martin_Farquhar_Tupper
 description: The Complete Prose Works of Tupper, Volume 6
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16857#Probabilities---An-aid-to-Faith
 gutenberg_issued: '2005-10-13'
 gutenberg_type: Text
 identifiers:
